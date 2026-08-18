@@ -1,0 +1,57 @@
+CC0 PUBLIC DOMAIN DEDICATION AND RESPONSIBLE-USE STATEMENT
+
+1. Scope of Application
+
+This dedication applies to the International Mutual Economic Security Instrument (IMESI) materials released by Susan Stroud, including but not limited to:
+
+- All versions, editions, and variants of the IMESI framework;
+- All annexes, appendices, and supporting documentation;
+- All subsequent revisions, updates, or derivatives to which this dedication is attached or expressly applied.
+
+Each covered version may differ in structure, scope, mechanisms, level of detail, or intended application. Collectively, these materials are referred to herein as the "IMESI Works."
+
+2. Public Domain Dedication
+
+To the fullest extent permitted by applicable law, the IMESI Works are hereby dedicated to the public domain under the Creative Commons CC0 1.0 Universal Public Domain Dedication.
+
+The author:
+
+- Waives all copyright and related rights she is legally able to waive;
+- Seeks no compensation, licensing fee, permission requirement, or mandatory attribution;
+- Permits unrestricted use, reproduction, distribution, translation, modification, adaptation, combination, incorporation into other works, and any other exploitation of the IMESI Works for any purpose whatsoever, including governmental, academic, nonprofit, commercial, or other purposes, without the need to seek prior permission.
+
+The official Creative Commons CC0 1.0 Universal legal instrument governs this dedication and takes precedence in the event of any ambiguity or conflict.
+
+Official Text: https://creativecommons.org/publicdomain/zero/1.0/
+
+3. Responsible-Use Principles (Non-Binding)
+
+While the IMESI Works are freely available for any use, the author encourages (but does not legally require) future users to observe the following non-binding responsible-use principles:
+
+1. Defensive Purpose - The IMESI framework was designed primarily as a defensive mechanism for collective economic resilience and sovereign stability, not as an offensive or coercive instrument.
+
+2. Proportionality - Any activation or use of mechanisms derived from the IMESI Works should be proportionate to the economic pressure or coercion being addressed.
+
+3. Transparency - Where feasible, users should communicate their intent and rationale when invoking or adapting IMESI-related mechanisms, to reduce misunderstanding and miscalculation.
+
+4. Coalition Coordination - The framework is designed to strengthen collective action; users are encouraged to coordinate with affected partners and allies to ensure burden-sharing and mutual support.
+
+5. Non-Discrimination - The mechanisms should not be used to unjustly target, isolate, or penalize states or actors based on factors unrelated to the qualifying economic coercion or disruption.
+
+6. Good-Faith Interpretation - Users should interpret and implement the framework in good faith, consistent with the spirit of economic security, international cooperation, and de-escalation.
+
+These principles are aspirational and non-binding. They impose no legal conditions on the use of the IMESI Works and do not limit any rights granted under the CC0 dedication. The author neither monitors nor enforces compliance with these principles.
+
+4. No Warranty or Liability
+
+The IMESI Works are provided "AS IS" and "AS AVAILABLE," without any representations or warranties of any kind, express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, non-infringement, accuracy, completeness, or the absence of errors.
+
+To the fullest extent permitted by law, the author assumes no liability for any damages, losses, or claims arising from or related to the use, adaptation, implementation, or reliance upon the IMESI Works, whether used in their original form or as modified by others.
+
+CC0 1.0 Universal: https://creativecommons.org/publicdomain/zero/1.0/
+
+Dated: August 18, 2026
+
+Susan Stroud
+SusanStroud71@gmail.com
+https://github.com/susanstroud71-rgb/Donations
